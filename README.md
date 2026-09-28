@@ -12,3 +12,7 @@ Sistema de consola (CRUD) desarrollado en Java puro, diseñado para administrar 
 *   Java (JDK)
 *   Estructuras de datos dinámicas (ArrayList)
 *   Librerías nativas (`java.util.Scanner`, `java.util.Locale`)
+
+## ⚙️ Cómo ejecutar el proyecto
+   ```bash
+   git clone [https://github.com/ElOniiix/Sistema-Nomina-Java](https://github.com/ElOniiix/Sistema-Nomina-Java)
