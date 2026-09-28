@@ -16,4 +16,4 @@ Sistema de consola (CRUD) desarrollado en Java puro, diseñado para administrar 
 ## ⚙️ Cómo ejecutar el proyecto
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone [https://github.com/ElOniiix/Sistema-Nomina-Java.git](https://github.com/ElOniiix/Sistema-Nomina-Java.git)
+   git clone https://github.com/ElOniiix/Sistema-Nomina-Java.git
